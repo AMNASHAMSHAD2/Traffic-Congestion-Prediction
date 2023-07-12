@@ -1,1 +1,2 @@
 # Traffic-Congestion-Prediction
+I used OSRM data for data collection. OSRM is open-source routing machine for roads data collection using an API. A two-prong strategy has been used in this project. Firstly, the performance can be improved by running processes in parallel and utilizing the maximum number of cores. The Second improvement is achieved by splitting files to avoid the memory swapping process. 
